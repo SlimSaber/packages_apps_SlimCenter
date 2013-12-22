@@ -54,27 +54,27 @@
     <string name="short_cut_release_title">ROM related</string>
     <string name="short_cut_changelog_title">Changelog</string>
     <string name="short_cut_changelog_summary_update_available">Important!!! Read changelog and install instructions carefully</string>
-    <string name="short_cut_download_summary_update_available">New SlimBean ROM update available. Download here!</string>
+    <string name="short_cut_download_summary_update_available">New SlimSaber ROM update available. Download here!</string>
     <string name="short_cut_changelog_summary">Show changelogs and install instructions</string>
     <string name="short_cut_additional_title">Additional</string>
     <string name="short_cut_faq_title">FAQ</string>
     <string name="short_cut_faq_summary">Show Slim FAQ</string>
     <string name="short_cut_news_title">News</string>
     <string name="short_cut_news_summary">Read about latest Slim news</string>
-    <string name="short_cut_download_title">Download SlimBean</string>
-    <string name="short_cut_download_uptodate_summary">Download SlimBean ROM</string>
+    <string name="short_cut_download_title">Download SlimSaber</string>
+    <string name="short_cut_download_uptodate_summary">Download SlimSaber ROM</string>
     <string name="short_cut_download_gapps_title">Download gapps</string>
-    <string name="short_cut_download_gapps_summary">Download SlimBean addon packages</string>
+    <string name="short_cut_download_gapps_summary">Download SlimSaber addon packages</string>
 
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
-    <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
+    <string name="download_url"></string>
+    <string name="changelog_url">http://www.androidfilehost.com/?w=files&amp;flid=15176</string>
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
     <string name="gapps_url">http://otaslim.slimroms.net/gapps.htm</string>
 
     <!-- SlimOTA update checker -->
-    <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
-    <string name="notification_message">SlimBean ROM update available</string>
+    <string name="xml_url">https://content.wuala.com/contents/fusionjack/Android/ota_kitkat.xml/?dl=1</string>
+    <string name="notification_message">SlimSaber ROM update available</string>
 
     <!-- SlimOTA About -->
     <string name="about_home_url"><a href="http://www.slimroms.net">www.slimroms.net</a></string>
