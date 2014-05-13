@@ -79,7 +79,7 @@
 
     <!-- SlimOTA update checker -->
     <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
-    <string name="xml_url_kitkat">http://ubuntuone.com/7cPMQOXipOcO2TvxsUWKM6</string>
+    <string name="xml_url_kitkat">https://content.wuala.com/contents/fusionjack/Android/ota_kitkat.xml/?dl=1</string>
     <string name="notification_message">SlimSaber ROM update available</string>
 
     <!-- SlimOTA About -->
