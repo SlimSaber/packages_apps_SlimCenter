@@ -70,7 +70,7 @@
     <string name="changelog_url">http://www.androidfilehost.com/?w=files&amp;flid=15176</string>
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
-    <string name="gapps_url">http://otaslim.slimroms.net/gapps.htm</string>
+    <string name="gapps_url">http://slimroms.net/index.php/downloads/dlsearch/viewcategory/1146-addons4-3</string>
 
     <!-- SlimOTA update checker -->
     <string name="xml_url">https://content.wuala.com/contents/fusionjack/Android/ota_kitkat.xml/?dl=1</string>
