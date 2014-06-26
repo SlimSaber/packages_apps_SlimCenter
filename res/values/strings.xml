@@ -73,7 +73,7 @@
     <string name="gapps_url">http://slimroms.net/index.php/downloads/dlsearch/viewcategory/1146-addons4-3</string>
 
     <!-- SlimOTA update checker -->
-    <string name="xml_url">https://content.wuala.com/contents/fusionjack/Android/ota_kitkat.xml/?dl=1</string>
+    <string name="xml_url">https://content.wuala.com/contents/fusionjack/Android/ota_jellybean.xml/?dl=1</string>
     <string name="notification_message">SlimSaber ROM update available</string>
 
     <!-- SlimOTA About -->
