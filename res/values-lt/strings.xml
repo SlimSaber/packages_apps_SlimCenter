@@ -58,11 +58,8 @@
     <string name="short_cut_download_uptodate_summary">Atsisiųsti SlimBean ROM</string>
     <string name="short_cut_download_gapps_title">Atsisiųsti Google programėles</string>
     <string name="short_cut_download_gapps_summary">Atsisiųsti SlimBean papildinių paketus</string>
-    <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
-    <string name="gapps_url">http://otaslim.slimroms.net/gapps.htm</string>
-    <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
     <string name="notification_message">Galimas SlimBean ROM atnaujinimas</string>
     <string name="about_home_url"><a href="http://www.slimroms.net">www.slimroms.net</a></string>
     <string name="about_slim_ota">SlimOTA leidžia jums visada turėti \nnaujausią programinę įrangą</string>

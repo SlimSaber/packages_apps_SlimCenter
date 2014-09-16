@@ -70,16 +70,10 @@
     <string name="short_cut_download_gapps_title">GAPPS İndirin</string>
     <string name="short_cut_download_gapps_summary">SlimKat Ek Paketlerini İndirin</string>
 
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
-    <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
-    <string name="gapps_url">http://otaslim.slimroms.net/gapps.htm</string>
-    <string name="gapps_url_kitkat">http://otaslim.slimroms.net/gapps_kitkat.htm</string>
 
     <!-- SlimOTA update checker -->
-    <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
-    <string name="xml_url_kitkat">http://otaslim.slimroms.net/ota_kitkat.xml</string>
     <string name="notification_message">Yeni SlimKat ROM Güncellemesi</string>
 
     <!-- SlimOTA About -->

@@ -42,7 +42,6 @@
     <string name="short_cut_download_uptodate_summary">Tải về ROM SlimBean</string>
     <string name="short_cut_download_gapps_title">Tải về gapps</string>
     <string name="short_cut_download_gapps_summary">Tải về gói tiện ích SlimBean</string>
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
     <string name="notification_message">Có sẵn bản cập nhật của ROM SlimBean</string>
     <string name="about_slim_ota">Trung tâm Slim cho phép bạn để dễ dàng quản lý\n ROM của bạn!</string>
     <string name="about_version">Trung tâm Slim 1.1</string>

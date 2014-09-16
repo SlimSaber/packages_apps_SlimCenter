@@ -43,7 +43,6 @@
     <string name="short_cut_download_uptodate_summary">Pobierz ROM SlimBean</string>
     <string name="short_cut_download_gapps_title">Pobierz Gapps</string>
     <string name="short_cut_download_gapps_summary">Pobierz paczki z dodatkami do SlimBean</string>
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
     <string name="notification_message">Dostępna aktualizacja ROMU SlimBean</string>
     <string name="about_slim_ota">SlimOTA pilnuje by twój ROM i gappsy\nbyły na bieżąco</string>
     <string name="about_copyright">\u00A9 prawa autorskie Slimroms 2013</string>

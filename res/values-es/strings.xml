@@ -45,7 +45,6 @@
     <string name="short_cut_download_uptodate_summary">Descargar SlimKat ROM</string>
     <string name="short_cut_download_gapps_title">Descargar gapps</string>
     <string name="short_cut_download_gapps_summary">Descargar paquetes de adicionales de SlimKat</string>
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
     <string name="notification_message">Actualización de la ROM de SlimKat disponible</string>
     <string name="about_slim_ota">SlimOTA te mantiene siempre actualizada\n tu rom y gapps</string>
     <string name="about_version">SlimCenter 1.1</string>
