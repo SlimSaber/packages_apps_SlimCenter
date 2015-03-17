@@ -17,6 +17,7 @@
 package com.slim.ota.settings;
 
 import android.app.AlarmManager;
+import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.ListPreference;
@@ -122,6 +123,12 @@ public class Settings extends PreferenceActivity implements
             settingsValue = 3;
         }
         return settingsValue;
+    }
+
+    public static boolean isUpdateEnabled(Context context) {
+        SharedPreferences prefs = context.getSharedPreferences(LAST_INTERVAL, 0);
+        long value = prefs.getLong(LAST_INTERVAL, 0);
+        return value != 1 ? true : false;
     }
 
 }

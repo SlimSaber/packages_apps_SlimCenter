@@ -19,6 +19,8 @@ package com.slim.ota.updater;
 import android.content.Intent;
 import android.util.Log;
 
+import com.slim.ota.settings.Settings;
+
 import com.commonsware.cwac.wakeful.WakefulIntentService;
 
 public class UpdateService extends WakefulIntentService {
@@ -40,8 +42,10 @@ public class UpdateService extends WakefulIntentService {
     @Override
     protected void doWakefulWork(Intent intent) {
        if (mNoLog == false) Log.d(TAG, "Slim OTA Update service called!");
-       UpdateChecker otaChecker = new UpdateChecker();
-       otaChecker.execute(getBaseContext());
+       if (Settings.isUpdateEnabled(getBaseContext())) {
+           UpdateChecker otaChecker = new UpdateChecker();
+           otaChecker.execute(getBaseContext());
+       }
     }
 
 }

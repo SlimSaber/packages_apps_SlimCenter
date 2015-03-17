@@ -88,7 +88,7 @@ public class SlimOTA extends Fragment implements OnSharedPreferenceChangeListene
         prefs.registerOnSharedPreferenceChangeListener(this);
 
         if (UpdateChecker.connectivityAvailable(getActivity())) {
-           doTheUpdateCheck();
+           if (Settings.isUpdateEnabled(getView().getContext())) doTheUpdateCheck();
         } else {
            Toast.makeText(getView().getContext(), R.string.toast_no_data_text, Toast.LENGTH_LONG).show();
         }
