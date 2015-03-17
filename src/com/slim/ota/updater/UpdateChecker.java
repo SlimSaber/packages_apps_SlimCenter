@@ -137,9 +137,7 @@ public class UpdateChecker extends AsyncTask<Context, Integer, String> {
             String newUpdateUrl = null;
             String newFileName = null;
             URL url = null;
-            if (slimCurVer != null && slimCurVer.contains("4.4")) {
-                url = new URL(mContext.getString(R.string.xml_url_kitkat));
-            } else {
+            if (slimCurVer != null) {
                 url = new URL(mContext.getString(R.string.xml_url));
             }
             urlConnection = (HttpURLConnection) url.openConnection();

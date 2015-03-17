@@ -64,21 +64,13 @@ public class SlimLinks extends Fragment {
             if (v == mChangelog) {
                 if (mStrChangelogURL != null && !mStrChangelogURL.isEmpty()) {
                     launchUrl(mStrChangelogURL);
-                } else {
-                    launchUrl(getString(R.string.changelog_url));
                 }
             } else if (v == mDownload) {
-                if (mStrFileURLNew != null
-                        && mStrFileURLNew != "") {
+                if (mStrFileURLNew != null && !mStrFileURLNew.isEmpty()) {
                     launchUrl(mStrFileURLNew);
-                } else {
-                    launchUrl(getString(R.string.download_url));
                 }
             } else if (v == mDownloadGapps) {
-                if (mStrCurFile != null
-                    && mStrCurFile.contains("4.4")) {
-                    launchUrl(getString(R.string.gapps_url_kitkat));
-                } else {
+                if (mStrCurFile != null) {
                     launchUrl(getString(R.string.gapps_url));
                 }
             } else if (v == mFAQ) {
