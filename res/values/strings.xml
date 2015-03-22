@@ -115,6 +115,10 @@
     <string name="sizer_message_filefail">Failed to create profile.</string>
     <string name="sizer_message_noselect">Nothing selected.</string>
 
+    <!-- SlimChangelog -->
+    <string name="changelog_title">SlimChangelog</string>
+    <string name="changelog_path">/system/etc/changelog.txt</string>
+
     <!-- About -->
     <string name="aboutslim_title">SlimRoms</string>
     <string name="devs">Developer</string>
