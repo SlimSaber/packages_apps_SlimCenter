@@ -72,7 +72,7 @@
 
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
-    <string name="gapps_url">https://www.androidfilehost.com/?fid=95916177934541653</string>
+    <string name="gapps_url">http://209.95.39.164/Gapps/Lollipop/</string>
 
     <!-- SlimOTA update checker -->
     <string name="xml_url">https://www.dropbox.com/s/q0n30ddvnamzt83/ota_lollipop.xml?dl=1</string>
