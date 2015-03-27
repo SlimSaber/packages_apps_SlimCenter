@@ -75,7 +75,7 @@
     <string name="gapps_url">http://209.95.39.164/Gapps/Lollipop/</string>
 
     <!-- SlimOTA update checker -->
-    <string name="xml_url">https://www.dropbox.com/s/q0n30ddvnamzt83/ota_lollipop.xml?dl=1</string>
+    <string name="xml_url">https://www.dropbox.com/s/u2k60hvjn2c02h0/ota_lollipop.xml?dl=1</string>
     <string name="notification_message">SlimSaber ROM update available</string>
 
     <!-- SlimOTA About -->
