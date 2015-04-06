@@ -31,7 +31,7 @@ public class SlimChangelog extends Fragment {
                 changelogTextView.setText(result);
             }
         };
-        rc.execute(getActivity());
+        rc.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR, getActivity());
     }
 
     @Override
